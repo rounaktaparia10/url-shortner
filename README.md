@@ -149,12 +149,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## ✨ Credits
-Created by **Abhishek Jain**. If you have any questions, feel free to reach out!
-
-- **GitHub**: [@abhishekjain](https://github.com/Abhishekkjainn)
-- **LinkedIn**: [Abhishek Jain](https://linkedin.com/in/abhishekjain)
-- **Portfolio**: [Abhishek Jain](https://abhishekjain.vercel.app)
-
-Enjoy using **BeLinkk**! 🚀🔥
 
