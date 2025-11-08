@@ -13,18 +13,18 @@ export default function Header() {
           Dashboard
         </Link>
         <a
-          href="https://github.com/Abhishekkjainn/blink/blob/main/README.md"
+          href="https://github.com/rounaktaparia10/url-shortner/blob/main/README.md"
           className="link"
         >
           Documentation
         </a>
-        <a href="mailto:jainabhishek1904@gmail.com" className="link">
+        <a href="mailto:rounaktaparia2004@gmail.com" className="link">
           Contact
         </a>
-        <a href="https://abhishekjain.vercel.app/contact" className="link">
+        <a href="#" className="link">
           Reviews
         </a>
-        <a href="https://abhishekjain.vercel.app" className="link">
+        <a href="https://www.linkedin.com/in/rounak-taparia-2580b0275/" className="link">
           Developer
         </a>
       </div>
